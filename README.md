@@ -1,5 +1,6 @@
 # InstagramSpider
 Complete parsing of followers and following by given user list:
+
         1. Followers list
         2. Followings list
         3. Username
@@ -9,6 +10,7 @@ Complete parsing of followers and following by given user list:
 
 # Book24Spider
 Searching books by gived keyword and parse book data:
+
         1. Book link
         2. Book title
         3. Authors
@@ -18,14 +20,16 @@ Searching books by gived keyword and parse book data:
 
 # LeruaSpider
 Searching items by given keyword and parse items data:
+
         1. Title
         2. Item characteristics
         3. Item price
         4. Item link
-        4. Item photos, saving in folders named by item title
+        5. Item photos, saving in folders named by item title
 
 # HH_parser.py
 Complete hh.ru vacancies parsing by given keyword:
+
         1. Vacancy title
         2. Salary range
         3. Vacancy link
@@ -38,6 +42,7 @@ Complete hh.ru vacancies parsing by given keyword:
         
 # News_parser.py
 Complete lenta.ru/yandex.news.ru/news.mail.ru parsing:
+
         1. News title
         2. Publication date
         3. Link
@@ -47,6 +52,7 @@ Complete lenta.ru/yandex.news.ru/news.mail.ru parsing:
         
 # Vk_parser_selenium.py
 Complete parsing of posts in vk.com communities by given keyword without login:
+
         1. Post data
         2. Post text
         3. Post link
